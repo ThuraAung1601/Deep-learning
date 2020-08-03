@@ -696,9 +696,3 @@ Here are the course summary as its given on the course [link](https://www.course
 - Ian thinks that we need to start anticipating security problems with ML now and make sure that these algorithms are secure from the start instead of trying to patch it in retroactively years later.
 
 
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
