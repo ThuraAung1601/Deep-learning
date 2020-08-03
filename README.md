@@ -1,2 +1,2 @@
 # Deep-learning
-Personal Notes and materials for studying deep learning
+Personal Collection of Notes and materials for studying deep learning
