@@ -884,7 +884,3 @@ _**Side notes:**_
 
 
 
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
