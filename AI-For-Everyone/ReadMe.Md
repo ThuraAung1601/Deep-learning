@@ -5,7 +5,10 @@
 > (Book For Reference : Handson ML with scikitlearn, keras and tensorflow)[https://drive.google.com/file/d/1mlg3AaODqfDpIAMZlJCMHgbWfNOXpQL9/view?usp=sharing]
 
 ### Week 1
+
 > (ML Intro Dr.Zaw Min Khaing, Thet Naing Tun)[https://youtu.be/oqr6Kh6ywQk]
+
 > (Club Discussion Video Thura Aung)[]
+
 > (Deep learning Intro Dr.Wai Yan Nyein Naing)[https://youtu.be/xeiduYOrsCM]
 
