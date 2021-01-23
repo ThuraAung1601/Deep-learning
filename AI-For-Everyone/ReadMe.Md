@@ -8,7 +8,7 @@
 
 > (ML Intro Dr.Zaw Min Khaing, Thet Naing Tun)[https://youtu.be/oqr6Kh6ywQk]
 
-> (Club Discussion Video Thura Aung)[]
+> (Club Discussion Video Thura Aung)[https://youtu.be/L2g8I2F1mzc]
 
 > (Deep learning Intro Dr.Wai Yan Nyein Naing)[https://youtu.be/xeiduYOrsCM]
 
