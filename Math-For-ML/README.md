@@ -1,31 +1,19 @@
-# Deep BGRemove
+## Blogs
 
-![Example](example.gif)
+### Machine Learning Blogs I have written in Burmese Language
 
-This is a quick tool that I whipped up for doing background removal using Pytorch's DeeplabV3 segmentation model. The pre-trained weights are used and downloaded from the Pytorch Hub, so getting up and running should be fairly easy. MoviePy is used for processing and I/O and it accepts a variety of formats. Cuda will be used if it is available on the system (you will want to use it as generating the output can be very slow, especially for large videos).
+- [Introduction to Probability](https://thuraaung-1601.medium.com/introduction-to-probability-7b884750aaa1)
+- [Introduction to Bayes' Theorem](https://thuraaung-1601.medium.com/introduction-to-bayes-theorem-6deff20e584d)
+- [Introduction to least squares regression](https://thuraaung-1601.medium.com/introduction-to-least-squares-regression-409220d6a230)
+- [Introduction to linear regression](https://thuraaung-1601.medium.com/introduction-to-linear-regression-with-normal-equation-98e6c1f839f8)
+- [Essential Error functions for regression problems](https://thuraaung-1601.medium.com/essential-error-functions-for-regression-problems-31c1431b1c36)
+- [Neural Networks and Deep Learning](https://thuraaung-1601.medium.com/neural-networks-and-deep-learning-summary-in-burmese-c576877c3a7d)
+- [Essential evaluation metrics for classification problems](https://thuraaung-1601.medium.com/essential-evaluation-metrics-for-classification-problems-267d87d8238)
+- [Introduction to Optimization ALgorithms](https://thuraaung-1601.medium.com/optimization-algorithms-for-deep-learning-introduction-d27fdb35e254)
+- [What is Spatial Data Science ?](https://thuraaung-1601.medium.com/what-is-spatial-data-science-2b128bb5d5e2)
 
-Mask movies can be brought into a tool like After effects and used as an alpha channel. 
+### Engineering Science Blogs I have written in Burmese Language
 
-## Installation
-Install the requirements.
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-python createmask.py --input "avideo.mp4" --output "output.mp4"
-```
-
-Optionally use `--width` to resize the input, keeping aspect ratio. If you have 4k video, you should resize it down to 1080p for masking purposes otherwise it will take quite a while.
-
-## Tips
-
-You'll want to have a reasonably high res video as input (with a similar output size) - 720p or 1080p is recommended. Too low res, and it tends to miss the people or not mask them too acurately. Good quality video is important - the network has trouble with motion blur. The training data most likely is all in-focus, so the network works great on still photos but people in motion are not masked as well. Higher framerates may help reduce motion blur - I am still experimenting with this.
-
-## Notes
-
-The video processing aspect is based on MoviePy, which is a powerful video editor in it's own right. Adding more powerful editing commands would be possible fairly easily. I had originally wanted to implementing compositing in this script, but it looks like MoviePy has some limitations on how masks work and are processed, and syncronizing video streams lends itself more to visual tools anyway. But, this could change in the future.
-
-
+- [Rate of Change](https://thuraaung-1601.medium.com/rate-of-change-89213d5ce034)
+- [Introduction to Differentiation](https://thuraaung-1601.medium.com/introduction-to-differentiation-a4739042e523)
+- [Electrodynamics before Einstein](https://thuraaung-1601.medium.com/electrodynamics-before-einstein-be02815c4c1d)
