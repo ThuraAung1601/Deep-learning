@@ -12,8 +12,13 @@
 - [Introduction to Optimization ALgorithms](https://thuraaung-1601.medium.com/optimization-algorithms-for-deep-learning-introduction-d27fdb35e254)
 - [What is Spatial Data Science ?](https://thuraaung-1601.medium.com/what-is-spatial-data-science-2b128bb5d5e2)
 
-### Engineering Science Blogs I have written in Burmese Language
+### Engineering Blogs I have written in Burmese Language
 
 - [Rate of Change](https://thuraaung-1601.medium.com/rate-of-change-89213d5ce034)
 - [Introduction to Differentiation](https://thuraaung-1601.medium.com/introduction-to-differentiation-a4739042e523)
 - [Electrodynamics before Einstein](https://thuraaung-1601.medium.com/electrodynamics-before-einstein-be02815c4c1d)
+
+### Physics Book I'm currently writting 
+
+- [Part 1 : Bodies in Motion](https://github.com/ThuraAung1601/Short-Physics/blob/master/my-book/part1/Physics-Book-part1.pdf)
+- Part 2 is on-going.
