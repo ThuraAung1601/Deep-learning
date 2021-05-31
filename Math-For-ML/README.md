@@ -18,7 +18,7 @@
 - [Introduction to Differentiation](https://thuraaung-1601.medium.com/introduction-to-differentiation-a4739042e523)
 - [Electrodynamics before Einstein](https://thuraaung-1601.medium.com/electrodynamics-before-einstein-be02815c4c1d)
 
-### Physics Book I'm currently writting 
+### Physics Book I'm currently writting in Burmese Language
 
 - [Part 1 : Bodies in Motion](https://github.com/ThuraAung1601/Short-Physics/blob/master/my-book/part1/Physics-Book-part1.pdf)
 - Part 2 is on-going.
